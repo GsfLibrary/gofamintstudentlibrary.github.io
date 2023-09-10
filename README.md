@@ -15,7 +15,7 @@ social media handles
 ========Twitter=======
 
 Individual contribution to project succes
-AYODELE SAMUEL (Front end Developer)
-AKINYOMI PAUL (Front end Developer)
-ISHOLA OLUWAFUNMILAYO (Content creator)
+AYODELE SAMUEL (Developer)
+AKINYOMI PAUL (Developer)
+ISHOLA OLUWAFUNMILOLA (Content creator)
 --->
